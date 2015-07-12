@@ -1,0 +1,10 @@
+#ifndef JSONSTORE_HPP
+#define JSONSTORE_HPP
+
+#include <QObject>
+
+namespace sailedger {
+
+}
+
+#endif // JSONSTORE_HPP
